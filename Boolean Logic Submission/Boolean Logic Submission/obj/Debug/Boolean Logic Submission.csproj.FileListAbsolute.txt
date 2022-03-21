@@ -1,0 +1,6 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.pdb
