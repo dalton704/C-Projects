@@ -1,0 +1,6 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Submission\Math Submission\bin\Debug\Math Submission.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Submission\Math Submission\bin\Debug\Math Submission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Submission\Math Submission\bin\Debug\Math Submission.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Submission\Math Submission\obj\Debug\Math Submission.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Submission\Math Submission\obj\Debug\Math Submission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Submission\Math Submission\obj\Debug\Math Submission.pdb

@@ -1,0 +1,6 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Challenge\Math Challenge\bin\Debug\Math Challenge.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Challenge\Math Challenge\obj\Debug\Math Challenge.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\Math Challenge\Math Challenge\obj\Debug\Math Challenge.pdb
