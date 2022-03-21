@@ -26,7 +26,7 @@ namespace Boolean_Operators
             //Console.WriteLine(false != false);
             //Console.WriteLine(true != true);
 
-            // Will result true if one is true but not both
+            // Will result true if one is true but not both Called "XOR" operator
             //Console.WriteLine(true ^ true);
             //Console.WriteLine(true ^ false);
             //Console.WriteLine(false ^ false);
