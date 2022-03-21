@@ -1,0 +1,6 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\MathAndComparisonOperatorSubmission.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\MathAndComparisonOperatorSubmission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\MathAndComparisonOperatorSubmission.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\MathAndComparisonOperatorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\MathAndComparisonOperatorSubmission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\MathAndComparisonOperatorSubmission.pdb
