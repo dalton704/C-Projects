@@ -1,0 +1,6 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\Branching Submission Assignment.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\Branching Submission Assignment.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\Branching Submission Assignment.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\Branching Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\Branching Submission Assignment.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\Branching Submission Assignment.pdb
