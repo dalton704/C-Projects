@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.pdb
