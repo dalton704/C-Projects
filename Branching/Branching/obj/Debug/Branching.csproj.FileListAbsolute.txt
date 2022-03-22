@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Branching\Branching\obj\Debug\Branching.pdb
