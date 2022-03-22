@@ -1,6 +1,0 @@
-C:\Users\lokum\Documents\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
-C:\Users\lokum\Documents\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
-C:\Users\lokum\Documents\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
-C:\Users\lokum\Documents\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
-C:\Users\lokum\Documents\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
-C:\Users\lokum\Documents\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb

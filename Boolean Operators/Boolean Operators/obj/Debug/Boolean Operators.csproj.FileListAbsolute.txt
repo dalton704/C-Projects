@@ -1,6 +1,0 @@
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.exe.config
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.exe
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.pdb
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.csproj.CoreCompileInputs.cache
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.exe
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.pdb

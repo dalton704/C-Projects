@@ -1,0 +1,6 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Console App Part 4 Assignment\Console App Part 4 Assignment\bin\Debug\Console App Part 4 Assignment.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Console App Part 4 Assignment\Console App Part 4 Assignment\bin\Debug\Console App Part 4 Assignment.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Console App Part 4 Assignment\Console App Part 4 Assignment\bin\Debug\Console App Part 4 Assignment.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Console App Part 4 Assignment\Console App Part 4 Assignment\obj\Debug\Console App Part 4 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Console App Part 4 Assignment\Console App Part 4 Assignment\obj\Debug\Console App Part 4 Assignment.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Console App Part 4 Assignment\Console App Part 4 Assignment\obj\Debug\Console App Part 4 Assignment.pdb

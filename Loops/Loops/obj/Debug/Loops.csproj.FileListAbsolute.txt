@@ -1,6 +1,0 @@
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Loops\Loops\bin\Debug\Loops.exe.config
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Loops\Loops\bin\Debug\Loops.exe
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Loops\Loops\bin\Debug\Loops.pdb
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Loops\Loops\obj\Debug\Loops.exe
-C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\Loops\Loops\obj\Debug\Loops.pdb
