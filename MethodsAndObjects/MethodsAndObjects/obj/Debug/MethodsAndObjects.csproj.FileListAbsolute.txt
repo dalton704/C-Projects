@@ -5,3 +5,10 @@ C:\Users\lokum\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\Method
 C:\Users\lokum\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
 C:\Users\lokum\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
 C:\Users\lokum\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
