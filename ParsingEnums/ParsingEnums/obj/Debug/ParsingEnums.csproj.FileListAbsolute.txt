@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
