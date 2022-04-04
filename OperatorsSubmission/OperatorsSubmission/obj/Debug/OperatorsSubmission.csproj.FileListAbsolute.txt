@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.pdb
