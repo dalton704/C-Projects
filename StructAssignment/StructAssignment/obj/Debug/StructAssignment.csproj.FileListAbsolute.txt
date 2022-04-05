@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
