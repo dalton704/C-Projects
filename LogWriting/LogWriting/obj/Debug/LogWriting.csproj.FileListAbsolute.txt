@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\bin\Debug\LogWriting.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\bin\Debug\LogWriting.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\bin\Debug\LogWriting.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\obj\Debug\LogWriting.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\obj\Debug\LogWriting.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\obj\Debug\LogWriting.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\LogWriting\LogWriting\obj\Debug\LogWriting.pdb
