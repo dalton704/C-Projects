@@ -1,0 +1,7 @@
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe.config
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.pdb
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.exe
+C:\Users\lokum\Documents\Basic_C#_Programs\C# Repository\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.pdb
